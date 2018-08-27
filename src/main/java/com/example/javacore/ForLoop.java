@@ -33,6 +33,7 @@ public class ForLoop {
         System.out.println("Factorial of number is " + factorial);
         System.out.println("test git integration - create a patch");
         System.out.println("branch 0.1");
+        System.out.println("merge 0.1 to master");
     }
 
 }
