@@ -31,7 +31,8 @@ public class ForLoop {
             factorial = factorial * i;
         }
         System.out.println("Factorial of number is " + factorial);
-        System.out.println("test git integration");
+        System.out.println("test git integration - create a patch");
+        System.out.println("branch 0.1");
     }
 
 }
